@@ -2,7 +2,7 @@
 
 require("./KeygenUtil.php");
 
-$password="431598d084e55a9536e41a3f799a42b4";
+$password="4334328d084e95ab536e41a3f499a42c4";
 $content='{"orderid":"10012018103100000014"}';
 $keygenutil=new KeygenUtil();
 echo "秘钥--->".$password;
